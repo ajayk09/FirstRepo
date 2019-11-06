@@ -1,4 +1,8 @@
 hello Amit how are you
 
 ########
+<<<<<<< HEAD
 Editing this fil to check difference
+=======
+update in the file.
+>>>>>>> master
